@@ -8,7 +8,7 @@ public class Main {
         tablicaMIejsc5[0] = 50;
         tablicaMIejsc5[1] = 3; // 1 3
         tablicaMIejsc5[2] = 6;
-        tablicaMIejsc5[3] = 12;
+        tablicaMIejsc5[3] = 11;
         tablicaMIejsc5[4] = 27;
 
 
