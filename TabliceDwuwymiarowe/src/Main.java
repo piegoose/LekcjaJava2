@@ -12,6 +12,7 @@ public class Main {
         tablicaMIejsc5[4] = 2000000;
 
 
+
 //        int suma = 0;
 //
 //        for (int i = 0; i < tablicaMIejsc5.length; i++) {
