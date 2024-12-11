@@ -9,7 +9,7 @@ public class Main {
         tablicaMIejsc5[1] = 3; // 1 3
         tablicaMIejsc5[2] = 6;
         tablicaMIejsc5[3] = 12;
-        tablicaMIejsc5[4] = 21212;
+        tablicaMIejsc5[4] = 27;
 
 
 //        int suma = 0;
